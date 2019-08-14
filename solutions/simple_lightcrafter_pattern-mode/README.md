@@ -18,14 +18,13 @@ Use Lcr GUI to set it up for transforming the standard video stream through HDMI
 5. set *bit depth* to 8 bit
 6. select *G0 to G7*
 7. click *add pattern to sequence*; the pattern will appear in the pattern sequence window
-8. click *send*
-![alt text][img1]
-..in the pattern sequence start/stop/pause tab
+8. click *send* in the pattern sequence start/stop/pause tab
 9. click *validate sequence*
 10. check that you get *green light* for sequence validated
-11. click *play*
-.. from now on your Lcr should run in pattern mode with no obvious change to the output.
-![alt text][img2]
+11. click *play* : from now on your Lcr should run in pattern mode with no obvious change to the output.
 
-[img1]: https://github.com/retinal-functomics/visual-stimulator/tree/master/solutions/simple_lightcrafter_pattern-mode/lcr_settings_a.png "step 1"
-[img2]: https://github.com/retinal-functomics/visual-stimulator/tree/master/solutions/simple_lightcrafter_pattern-mode/lcr_settings_b.png "step 2"
+
+
+![would like to show this image here](https://github.com/retinal-functomics/visual-stimulator/tree/master/solutions/simple_lightcrafter_pattern-mode/lcr_settings_a.png "step 1")
+
+![would like to show this image here](https://github.com/retinal-functomics/visual-stimulator/tree/master/solutions/simple_lightcrafter_pattern-mode/lcr_settings_b.png "step 2")
