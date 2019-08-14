@@ -27,5 +27,5 @@ Use Lcr GUI to set it up for transforming the standard video stream through HDMI
 .. from now on your Lcr should run in pattern mode with no obvious change to the output.
 ![alt text][img2]
 
-[img1]: ../lcr_settings_a.png "step 1"
-[img2]: ../lcr_settings_b.png "step 2"
+[img1]: ../visual-stimulator/solutions/simple_lightcrafter_pattern-mode/lcr_settings_a.png "step 1"
+[img2]: ../visual-stimulator/solutions/simple_lightcrafter_pattern-mode/lcr_settings_b.png "step 2"

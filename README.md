@@ -11,18 +11,18 @@ This repository is intended to help users of the [LightCrafter DLP projectors](h
 
 #### hardware
 
-[hardware](../hardware) contains building instructions for 3D-printed parts and circuit boards needed in mechanical implementations and control of hardware
+[hardware](../visual-stimulator/hardware) contains building instructions for 3D-printed parts and circuit boards needed in mechanical implementations and control of hardware
 
 #### software
 
-[software](../software) contains code and software for controlling lightcrafter through api, creating visual stimuli, ..
+[software](../visual-stimulator/software) contains code and software for controlling lightcrafter through api, creating visual stimuli, ..
 
 #### solutions
 
-[solutions](../solutions) contains solutions for common problems, how-to's and implementations of lightcrafter into visual stimulation rigs
+[solutions](../visual-stimulator/solutions) contains solutions for common problems, how-to's and implementations of lightcrafter into visual stimulation rigs
 
 #### licenses
-This repository is governed by the [MIT license](..LICENSE).
+This repository is governed by the [MIT license](../visual-stimulator/LICENSE).
 
 #### contribution guidelines
 See [here](..contribution_guidelines.md) for guidance on how to contribute to this repository.
